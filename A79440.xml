@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sighs for Sion: or, Faith and love constraning some grievings in her sorrow, and groanings for her deliverance: by a few of her weak and unworthy children. Humbly, and in all faithfulness, presented to those assemblies of hers, where grace hath set them as watchmen; and unto any others, that in every place call upon the name of Jesus Christ our Lord, both theirs and ours. In way of essay, to blow the trumpet in Sion, and sound an alarm in Gods holy mountain, to the awakening them that are at ease, and pressing and encouraging all the upright in heart, to be in pain with her, in this day of her sore travel, and great expectation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79440</idno>
+            <idno type="STC">Wing C3761</idno>
+            <idno type="STC">Thomason E884_8</idno>
+            <idno type="STC">ESTC R207314</idno>
+            <idno type="EEBO-CITATION">99866372</idno>
+            <idno type="PROQUEST">99866372</idno>
+            <idno type="VID">118643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118643)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 133:E884[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sighs for Sion: or, Faith and love constraning some grievings in her sorrow, and groanings for her deliverance: by a few of her weak and unworthy children. Humbly, and in all faithfulness, presented to those assemblies of hers, where grace hath set them as watchmen; and unto any others, that in every place call upon the name of Jesus Christ our Lord, both theirs and ours. In way of essay, to blow the trumpet in Sion, and sound an alarm in Gods holy mountain, to the awakening them that are at ease, and pressing and encouraging all the upright in heart, to be in pain with her, in this day of her sore travel, and great expectation.</title>
+                  <author>Cheare, Abraham, d. 1668.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Livewel Chapman, at the Crown in Popes head alley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Abraham Cheare [and four others].</note>
+                  <note>Annotation on Thomason copy: "August 4.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith --  Early works to 1800.</term>
+               <term>Kingdom of God --  Early works to 1800.</term>
+               <term>Love --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118643:1" rendition="simple:additions"/>
+            <p>
+               <hi>SIGHS</hi> for <hi>SION:</hi> OR, FAITH and LOVE Conſtraining ſome grievings in her Sorrow, and groanings for her Deliverance: <hi>By a few of her weak and unworthy Children.</hi>
+            </p>
+            <p>Humbly, and in all faithfulneſs, preſented to thoſe Aſſemblies of hers, where Grace hath ſet them as Watchmen; and unto any others, that in every place call upon the Name of JESUS CHRIST our Lord, both theirs and ours.</p>
+            <p>In way of ESSAY, <hi>To blow the Trumpet in Sion, and ſound an Alarm in Gods holy Mountain,</hi> To the awakening them that are at eaſe, and preſſing and en<g ref="char:EOLhyphen"/>couraging all the upright in heart, to be in pain with her, in this day of her ſore travel, and great Expectation.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>PSAL. 137.1.</hi>
+                  </bibl> —We wept, when we remembred Sion.</p>
+               <p>
+                  <bibl>
+                     <hi>ISA. 62.6, 7.</hi>
+                  </bibl> I have ſet Watchmen upon thy walls, O Jeruſalem, which ſhall never hold their peace day nor night: ye that make mention of the Lord, keep not ſilence, and give him no reſt, till he eſtabliſh, till he make Jeruſa<g ref="char:EOLhyphen"/>lem a praiſe in the earth.</p>
+               <p>
+                  <bibl>
+                     <hi>LAM. 2.18, 19.</hi>
+                  </bibl> Their heart cryed unto the Lord, O wall of the daughter of Sion: let tears run down like a river night and day, give thy ſelf no reſt, let not the apple of thine eyes ceaſe; ariſe, cry out in the night, in the begin<g ref="char:EOLhyphen"/>ning of the watches pour out thy heart like water before the face of the Lord, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <bibl>
+                     <hi>MIC. 4.10.</hi>
+                  </bibl> Be in pain and labour to bring forth, O daughter of Sion, like a woman in travel.</p>
+               <p>
+                  <bibl>
+                     <hi>ISA. 66.8.</hi>
+                  </bibl> — As ſoon as Sion travelled, ſhe brought forth her Children.</p>
+            </q>
+            <p>LONDON, Printed for <hi>Livewel Chapman,</hi> at the Crown in Popes head alley. 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118643:2"/>
+            <head>To the ſeveral Congregrations reſpectively, to which we ſtand eſpecially related; <hi>viz.</hi> In
+<list>
+                  <item>
+                     <hi>Plymouth,</hi>
+                  </item>
+                  <item>
+                     <hi>Abingdon,</hi>
+                  </item>
+                  <item>
+                     <hi>Totneſs,</hi>
+                  </item>
+                  <item>
+                     <hi>Bovhey-Tracy,</hi>
+                  </item>
+                  <item>and <hi>Dartmouth.</hi>
+                  </item>
+               </list>
+            </head>
+            <opener>
+               <salute>Dearly Beloved,</salute>
+            </opener>
+            <p>WE know, and acknowledge our ſelves to be debtors (yea, we owe our own ſelves) to the Lord, and you, for the exceeding grace that we (though moſt unworthy) have found in his ſight, counting us faith<g ref="char:EOLhyphen"/>ful, and putting us into the Miniſtry of his Goſpel; and for that our ſervice amongst you hath been, and is in any meaſure accepted. Under the ſenſe of which engagement, it is the leaſt we can do, to be ready to render an accompt of our ſelves from time to time unto you; the which we the more chearfully now undertake, as being under the perſwa<g ref="char:EOLhyphen"/>ſion of a Call of the Lord, leading us forth thereunto, and having good hopes, through grace, that our labour ſhall not be vain in him; in and through whom we are,</p>
+            <closer>
+               <signed>
+                  <hi>Yours, faithfully labouring (though in much weakneſs) for your Souls proſperity, as thoſe whoſe joy and rejoycing, both here, and in the day of Chriſt, wait to be fulfilled therein.</hi>
+                  <list>
+                     <item>Abraham Cheare,</item>
+                     <item>Henry Forty,</item>
+                     <item>John Pendarves,</item>
+                     <item>Tho: Glaſſe,</item>
+                     <item>Robert Steede.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:118643:3"/>
+            <head>Sighs for Sion, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE GREAT GOD OF HEA<g ref="char:EOLhyphen"/>VEN AND EARTH,</hi> who hath <hi>GRAVEN</hi> you, <hi>O YE PRECI<g ref="char:EOLhyphen"/>OUS SONS AND DAUGH<g ref="char:EOLhyphen"/>TERS OF SION,</hi> on the Palms of his Hands, hath alſo greatly en<g ref="char:EOLhyphen"/>deared you to our hearts; inſomuch as we may ſay with the Apoſtle, <hi>Ye are in our hearts</hi> (in the Lord) <hi>to live and dye with you:</hi> yea, we truſt our inward af<g ref="char:EOLhyphen"/>fection is more abundantly toward you, then our vi<g ref="char:EOLhyphen"/>ſible expreſſion in the enſuing lines: whereof at preſent we finde no better Teſtimony wherewith to preſent you, then that which is here tendred to your view: Your candid acceptance of ſo poor a mite, with a favourable conſtruction, and a due improve<g ref="char:EOLhyphen"/>ment of this Word in ſeaſon, to the Glory of God our Father, and the comfort of you his dear Chil<g ref="char:EOLhyphen"/>dren, will be that wherein our Deſires and Ends will be anſwered, and our Souls encouraged in the Work of God, and your Work; with reſolution in the power of God to hold on therein, <hi>paſsing by evil and good report,</hi> yea, and gladly to ſpend and be ſpent for Chriſts ſake, and for your ſakes, who are Chriſts.</p>
+            <p>But here we muſt begin with judging our ſelves, and covering our faces with deſerved ſhame, that we who have ſtood forth ſo long to miniſter the
+<pb n="5" facs="tcp:118643:3"/> Word among the Saints, and to make mention of the Work of God; and have yet had ſo little ſearchings of heart in the matter that is now before us; have known and felt ſo little, not onely of the power, but even of the form of this bleſſed Work, ſo as either to ſtir up and engage our own hearts, or to provoke the Churches of the Saints unto their concernments of this nature: But have rather eaſed and pleaſed our ſelves and others, in diſcourſing of, and proſecu<g ref="char:EOLhyphen"/>ting ſome other things, though good in themſelves, and in their places, yet ſuch as wherein our private intereſt of Peace and Comfort is more ſenſibly wrapt up; in the mean time falling ſhort of (at leaſt not ſo ſelf-denyingly reaching after) the advancement of that Name, Intereſt, and Glory of God, that ſhould be upon our hearts, to have made manifeſt in all the earth, <hi>from the riſing of the Sun, and from the Weſt.</hi>
+               <note place="margin">Iſa. 59.19.</note>
+            </p>
+            <p>And as we cannot but be ſenſible of the narrow<g ref="char:EOLhyphen"/>neſs of our own ſpirits, with grief, and ſhame; ſo alſo, as that which is weighty on us, we do obſerve, That a ſelf-ſeeking and ſelf-pleaſing Spirit, hath ta<g ref="char:EOLhyphen"/>ken great hold of, and advantage on many Profeſſors in theſe dayes; witneſs their little naturally-caring for <hi>Sions</hi> ſtate, moſt ſeeking their own things, and ſo few ſeeking the things of Jeſus Chriſt, and of their Brethren, for edification. And Oh! that there were not among you, even among you,<note place="margin">2 Chron. 28.10</note> who are the Churches of Chriſt, cauſe of complaint in this re<g ref="char:EOLhyphen"/>ſpect. Theſe things we mention, not to caſt reproach upon you, but with grieved hearts, God knoweth. And now, that we might diſcharge, and have the an<g ref="char:EOLhyphen"/>ſwer of a good conſcience, in following the Lord ful<g ref="char:EOLhyphen"/>ly, we have taken the opportunity of this Work, that
+<pb n="6" facs="tcp:118643:4"/> we truſt himſelf hath been fixing on our Spirits, after ſeeking to God, and waiting upon his Majeſty, To be<g ref="char:EOLhyphen"/>ſeech and provoke you, and every one of you, as you have any fellowſhip with Chriſt our Head, by faith, or in and with his body, the Church of the firſt-born, by love, you would for his, and his <hi>Sions</hi> ſake, hear, and receive our exhortations, conſidering with weighty Spirits what we ſay: and the Lord give you under<g ref="char:EOLhyphen"/>ſtanding in all things.</p>
+            <p>The Cauſe then that we deſire with trembling to plead,<note place="margin">Jer. 30.17.</note> (Brethren) is <hi>Sions,</hi> even hers, whom men have called an out-caſt, ſaying, This is <hi>Sion,</hi> whom no man ſeeketh after; and of whom that ancient Lamenta<g ref="char:EOLhyphen"/>tion may in a great meaſure be taken up, as verified in this our day,<note place="margin">Iſa. 51.18.</note> 
+               <hi>There is none to guide her among all the Sons whom ſhe hath brought forth, neither is there any that taketh her by the hand, of all the Sons that ſhe hath brought up;</hi>
+               <note place="margin">Lam. 1.2.</note> 
+               <hi>among all her lovers ſhe hath none to comfort her,</hi> &amp;c. And her Profeſſed friends, (many of them) have dealt treacherouſly with her, and are become her ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>Dear Souls! our requeſt on her behalf is, that you would look upon <hi>Sion,</hi>
+               <note place="margin">Iſa. 33.20. Pſal. 87.3. &amp; 50.2. &amp; 48.2. Iſa. 60.15.</note> that <hi>City of our Solemnities,</hi> of whom <hi>glorious things are ſpoken,</hi> and layed up in Pro<g ref="char:EOLhyphen"/>miſe for her, even to the rendring her <hi>the Perfection of Beauty, An eternal Excellency, The joy of many genera<g ref="char:EOLhyphen"/>tions.</hi> And oh! that your hearts may be ſo ſutably affected with an holy ſympathy in her ſtate, through that one Spirit that is in Promiſe for all her children, that you may truly ſay, as Souls whom faith and love have tranſported into her intereſt,<note place="margin">Pſal. 78.7.</note> 
+               <hi>All my Springs are in thee.</hi>
+            </p>
+            <p>But leſt we be miſtaken in your thoughts, while
+<pb n="7" facs="tcp:118643:4"/> we ſpeak of her in that figurative term; and to the end our apprehenſions may be diſtinct and clear, in our wreſtlings together on her behalf, we pray you to conſider what we intend and minde in the expreſſi<g ref="char:EOLhyphen"/>on <hi>[Sion.]</hi>
+            </p>
+            <p>Firſt, <hi>SION</hi> conſidered in a more large ſenſe,<note place="margin">Heb. 12.22, 23 Joh. 10.16. 2 Tim. 2.19. Joh. 17.20, 21. Col. 1.29. Gal. 4.19. 2 Tim. 2.10.</note> takes in the whole Election of God, <hi>Whoſe names are written in Heaven,</hi> that whole Body for which Chriſt gave himſelf, and whereof Chriſt is given to be Head; not onely thoſe who have believed, but thoſe alſo who ſhall believe, for whom, as Chriſt hath prayed, <hi>That they all may be one,</hi> as the Father is in him, and he in the Father, that they may be one in them, that the world may believe that the Father hath ſent him: ſo ought we to ſtrive mightily with God, and them, travelling in birth for them, till Chriſt be formed in them all; enduring alſo all things for their ſakes, <hi>that they alſo may obtain the Salvation which is in Chriſt Jeſus with eternal glory.</hi>
+            </p>
+            <p>But ſecondly, by <hi>Sion,</hi>
+               <note place="margin">Eph. 2.19. &amp; 3.15. Gal. 6.16. Iſa. 34.8. Luke 18.7, 8. Rev. 18.20, 24 Pſal. 73.1. Rom. 10.12. Jer. 50.34.</note> we here intend more eſpeci<g ref="char:EOLhyphen"/>ally and particularly, Gods called and faithful peo<g ref="char:EOLhyphen"/>ple, <hi>Jews and Gentiles, fellow-Citizens</hi> in Chriſt, even <hi>the whole Iſrael of God,</hi> as conſidered or concerned in a controverſie with <hi>Babylon,</hi> ſtated in the Scriptures; taking in, as well thoſe of that bleſſed family, who are now in heaven, for the avenging of whoſe blood, we ought without fainting to cry day and night, as the peculiar people of God upon the face of the whole earth; even <hi>all that in every place call upon the name of the Lord out of a pure heart:</hi> in whom the glory of God is more highly concerned, then in all things elſe in the world, not onely in his pleading thorowly their cauſe in all the controverſies of <hi>Sion</hi> with her
+<pb n="8" facs="tcp:118643:5"/> Adverſaries, but alſo in beautifying her with his glo<g ref="char:EOLhyphen"/>rious Preſence, and reſtoring her to her primitive Glory, in reſpect of a pure <hi>GOSPEL-FAITH, UNION,</hi> and <hi>ORDER;</hi> wherein being found as a bleſſed <hi>BRIDE,</hi> prepared for the coming of the glorious <hi>BRIDEGROOM,</hi> ſhe may be coun<g ref="char:EOLhyphen"/>ted worthy of all that glory that ſhall be brought un<g ref="char:EOLhyphen"/>to her, at the ſecond <hi>appearing of Jeſus Chriſt, NOW DRAWING NIGH.</hi>
+            </p>
+            <p>This bleſſed People, this <hi>SION, Gods</hi> glorious <hi>Building,</hi> and <hi>Workmanſhip in Chriſt,</hi> the true <hi>ſeed of A<g ref="char:EOLhyphen"/>braham,</hi> and <hi>Heires of the Promiſe,</hi> both <hi>Jews and Gen<g ref="char:EOLhyphen"/>tiles;</hi>
+               <note place="margin">Iſa. 49.14, 15, 16.</note> however in the Iſſue they ſhall be a <hi>Name, and Praiſe to him in all the Earth:</hi> And although this great Work in and for them, be ſtill before him; yet is it the wiſdom and good pleaſure of the Father, in the depths of his Everlaſting Counſel, to let the manifeſtation of it in the world, and his diſpenſations about it, be very various, and ſeemingly to carnal eyes, un<g ref="char:EOLhyphen"/>ſutable to ſuch intendments, through the many deaths, diſtreſſes, and unlikelyhoods, with which he cloatheth it in their ſight: the which he turneth nevertheleſs to the exceeding advantage of his Name all along,<note place="margin">Mic. 4.11, 12.</note> not onely by exerciſing thorowly the Pati<g ref="char:EOLhyphen"/>ence,<note place="margin">Rev. 13.10. &amp; 14.12.</note> Obedience, and Faithfulneſs of his Children, in owning the truth of his Teſtimony, and bearing their Teſtimony for him unto the death; but withal, by giving full occaſion, and opportunity, for that <hi>MYSTERY OF GOD</hi> to be <hi>Finiſhed,</hi> who hath Teſtified, and declared by the Spirit of Propheſie to the Churches, and permitteth by an hand of Provi<g ref="char:EOLhyphen"/>dence, the riſing, and raging of <hi>That man of Sin,</hi> that <hi>Bloody Myſtery of Iniquity,</hi> until it have anſwered and
+<pb n="9" facs="tcp:118643:5"/> fulfilled whatſoever is held forth of it, in all the vari<g ref="char:EOLhyphen"/>ous Scripture-Propheſies, figures, and repreſentations both of its Civil and Eccleſiaſtical concernment. The which, as it hath gotten to its heighth both of Re<g ref="char:EOLhyphen"/>nown and Crueltie, by the occaſion of that exceed<g ref="char:EOLhyphen"/>ing great offence, wherewith the cauſe of Chriſt hath been preſented in its appearance to the World, be<g ref="char:EOLhyphen"/>ing a <hi>Stumbling-Stone</hi> to the Children of this worlds Wiſdom and Glory: So ſhall its ruine ariſe from that Jealouſie of the Lord wherein he hath promiſed to plead the cauſe of his own, and his peoples glory; finding in, and recompenſing on that generation, on whom the houre of his wrath ſhall fall, <hi>all that righte<g ref="char:EOLhyphen"/>ous blood that hath been ſhed,</hi> and all that unworthy and treacherous uſage that <hi>SION</hi> hath met withall in the days of her poverty and diſtreſs.</p>
+            <p>The day of <hi>SIONS FULL DELIVER<g ref="char:EOLhyphen"/>ANCE,</hi> the deſtruction of her enemies, &amp; the ſetting up of <hi>CHRISTS GLORIOUS KINGDOM,</hi> is very much upon his heart, <hi>Iſa.</hi> 63.4. as a fruit of the ſore <hi>Travel of his Soul,</hi> Iſa. 53.11, 12. and recom<g ref="char:EOLhyphen"/>pence of that unworthy uſage that himſelf,<note place="margin">Iſa. 49.7. &amp; 61.3, 7.</note> his cauſe and people have had upon the earth; and for which, ſitting at the right-hand of God, he is in continual expectation, <hi>Heb.</hi> 10.13. as that which muſt be given him as a fruit of his interceſſion, <hi>Pſal.</hi> 2.8, 9. and to which he is preparing his way, <hi>by terrible things in Righteouſneſs,</hi> Pſal. 65.5, 8. <hi>Shaking both Heaven and Earth,</hi> and making a Quick diſpatch, <hi>Luk.</hi> 18.7, 8. ordering, and ruling all things therein, and making them ſubject to this his great and glorious work. And indeed, ſo much the more is this Deſign and Work declared to be upon his heart, as the whole
+<pb n="10" facs="tcp:118643:6"/> management of it will lie upon his own ſhoulders;<note place="margin">Iſa. 9.7. Pſal. 132.17.</note> they being very few among men, that will be found to have regard to it, in the budding of it; not onely through the blindneſs and enmity of thoſe that are aliens from him, but the very great ſleep and ſlumber that will be found among them that pretend to him, either through their want of faith, <hi>Luk.</hi> 18.8. or their ſenſual engagements in this preſent evil world, Chap. 17.26, <hi>&amp;c.</hi> So that notwithſtanding that Salvation he works for them, and his pleading their cauſe, lays them under no ſmall engagement to him; when his cauſe comes to be pleaded, the complaint is made by the Prophet, <hi>Iſa.</hi> 59.16. <hi>And he ſaw that there was no man, and wondred that there was no interceſſor. Therefore his arm brought Salvation unto him.</hi> The which great defection even of Saints themſelves, from <hi>FOLLOWING THE LAMB,</hi> in this ſpecial ſervice, together with the fixation of the work upon the heart of Chriſt notwithſtanding this, ſerveth highly now more then ever, the day drawing neerer, to commend, and greatly to encourage and excite the faithfulneſs of any, though the weakeſt and moſt deſpiſed of the Lords holy ones, who are in a right ſpirit engag'd for, and together with Chriſt, in their conſtant waitings, and fervent expectations of this manifeſtation of his Glory: they hereby witneſſing that they have the mind of Chriſt; and having one mind, give their power and ſtrength to the Lamb,<note place="margin">1 Cor. 2.16. Rev. 17.13, 14. Pſa. 72.15. &amp; 137.6. Heb. 13.3. 1 Cor. 12.27</note> as <hi>CALLED,</hi> and <hi>CHOSEN,</hi> and <hi>FAITHFUL,</hi> (when others have one minde to give theirs to the Beaſt) making prayers alſo <hi>for him continually,</hi> and preferring him and his intereſt be<g ref="char:EOLhyphen"/>fore their chief joy, through the ſpirit of faith and
+<pb n="11" facs="tcp:118643:6"/> love; always reckoning themſelves as being in the body, and members in particular.</p>
+            <p>A taſte of this worthy Spirit (Brethren, beloved in the Lord) we humbly truſt our God is giving us, who addreſs our ſelves to you, with ſome fervent deſires that we may be made more to partake of it. And indeed, ſuch is our love to your Souls, and delight (through grace) in this work before us, that we can<g ref="char:EOLhyphen"/>not but commend it to you, with more then an ordi<g ref="char:EOLhyphen"/>nary importunity; beſeeching you, and every one of you, from the greateſt to the leaſt, notwithſtanding divers differences amongſt you, touching the time, way and manner of Gods effecting thoſe great things, that by the will, and in the way of the Lord, you be found reaching after the ſame Spirit, and wreſtling much together and apart for it. And Oh! that it may be the pleaſure of the Lord herein,<note place="margin">2 Cor. 9:2.</note> that your zeal may provoke many, and you may be found to have ſtood in this <hi>hour of Temptation,</hi>
+               <note place="margin">Rev. 14.1.</note> and this <hi>BACK-SLIDING TIME, faithful with the Lamb on the Mount Sion,</hi>
+               <note place="margin">Pſa. 84.5, 6, 7.</note> having not onely <hi>His Fathers Name writ<g ref="char:EOLhyphen"/>ten on your Foreheads,</hi> but his work graven upon your hearts, and all thoſe bleſſed Characters diſpoſing you thereunto, ſhining in all your converſations; which will make you covet, that the Lord make his Work appear to you as his ſervants, though he reſerve the revelation of his glory unto your Children.<note place="margin">Pſa. 90.16.</note> For what greater joy, or Crown of rejoycing, can we have at the appearing of our Lord, then that we with you, and yee with us, be preſented <hi>faultleſs before his Throne? whereunto we alſo labour,</hi>
+               <note place="margin">Jud. 24. Col. 1.28.</note> 
+               <hi>and deſire to ſtrive mightily, according to his working.</hi> In which work, and to which end, we pray you bear with us, while we
+<pb n="12" facs="tcp:118643:7"/> follow this Exhortation a little further in a few words.</p>
+            <p>Is not the exerciſe of ſuch a <hi>PUBLIKE SPI<g ref="char:EOLhyphen"/>RIT</hi> for the <hi>whole Work</hi> of the Lord moſt deſirable? if we conſider farther, not onely its ſweet likeneſs unto, and fellowſhip with the heart of Chriſt; but with<g ref="char:EOLhyphen"/>all,<note place="margin">Iſa. 66.10. Zeph. 3.18.</note> that very great Bleſſing that hath been promiſed, and all ages they have found to their particular ſouls, who have been given up to mind moſt naturally, and follow moſt fully, that deſigne of God, that had its preſent tendency in that very age to promote <hi>Sion:</hi> the Lord is not unrighteous to forget ſuch work, and la<g ref="char:EOLhyphen"/>bour of love,<note place="margin">Heb. 6.10.</note> that is ſhewed towards his name. How hath that word been made good to them that pray for her Peace,<note place="margin">Pſa. 122.6.</note> 
+               <hi>They ſhall PROSPER that love thee?</hi> And ſee, we pray you (dear Brethren) how God hath bid his choice remnant to conſider, and reckon from that very day, wherein they ſet their hearts and hands a<g ref="char:EOLhyphen"/>bout the Work of <hi>Sion, from this day will I bleſs you,</hi> Hag. 2.18, 19. what choice Teſtimonies of the great love of God to himſelf, did <hi>Daniel</hi> finde at ſeveral times! (He is ſaid to be <hi>a man greatly beloved,</hi> or a man of deſires, <hi>Dan.</hi> 9.23. <hi>&amp;</hi> 10.11, 19.) when he was wreſtling for the <hi>NAME</hi> and Work of God ſingly, not minding a word of his own intereſt (that we reade of) farther then it was wrapt up in the Lords? beſides the great ſecrets that were opened to him, of the deep deſignes of God for a great while to come. What a deſirable foreſight had <hi>David</hi> given him by the Spirit,<note place="margin">1 Chro. 28.12 19. <hi>&amp;c.</hi>
+               </note> in all the patern of the houſe of the Lord, and large furniſhments thereunto? yea, what provi<g ref="char:EOLhyphen"/>ſion, to his aſtoniſhment, did God make for building him an houſe,<note place="margin">2 Sam. 7. beg.</note> and eſtabliſhing his Kingdom, when
+<pb n="13" facs="tcp:118643:7"/> in the time of his reſt he was taking care of that houſe of Gods glory,<note place="margin">1 Chro. 6.33.</note> becauſe of which all the people of the earth might know his name?</p>
+            <p>What a conſtant obſervation was <hi>Nehemiah</hi> ena<g ref="char:EOLhyphen"/>bled to take of the hand of God for good upon him,<note place="margin">Neh. 5.19. <hi>&amp;</hi> 6.9. <hi>&amp;</hi> 13.14, <hi>&amp;</hi> 22, 31.</note> 
+               <hi>Neh.</hi> 2.8, 18. and what boldneſs, and clearneſs of ac<g ref="char:EOLhyphen"/>ceſs, and appeal to the Lord, was he ſtill furniſhed withall, whiles he was in the fear of God, (Chap. 5.9, 15.) about the work of <hi>Sion?</hi>
+            </p>
+            <p>Was not <hi>Ezra's</hi> experience much of the eye and hand of the Lord accompanying him,<note place="margin">Ezra 5.5. &amp; 7.6. &amp; 9.8. &amp; 8.18, &amp; 22, 31.</note> in all that great work he did for the Lord his God?</p>
+            <p>Moreover, it deſerves our ſerious obſervation, be<g ref="char:EOLhyphen"/>ing <hi>written for generations to come,</hi>
+               <note place="margin">Pſa. 102.17, 18.</note> how much the Lord is delighted in the faithful fervent prayers of thoſe who have ſought him, in behalf of <hi>the People called by his name;</hi> in that he hath carefully preſerved the me<g ref="char:EOLhyphen"/>morial of them, cauſing them to be expreſly record<g ref="char:EOLhyphen"/>ed in his book; as appears in the firſt of <hi>Nehemiah,</hi> and the ninth of <hi>Daniel:</hi> all which, with many others that might be named, are enſamples unto us, that we by their patern might be ſtirred up to <hi>ſerve our gene<g ref="char:EOLhyphen"/>ration,</hi>
+               <note place="margin">Act. 13.36.</note> with faithful ſpirits, <hi>by the will of God.</hi>
+            </p>
+            <p>To which alſo we might adde, the remembrance of the Curſe on them that hate <hi>Sion;</hi> yea,<note place="margin">Pſa. 129.5.</note> the apparent withering and blaſting that hath been, and is on them, that in following their private intereſts, neg<g ref="char:EOLhyphen"/>lect her, and defer her work, under this pretence, <hi>The time is not yet come,</hi>
+               <note place="margin">Hag. 1.2, to 11.</note> 
+               <hi>the time that the Lords houſe ſhould be built;</hi> whileſt in the mean time they prefer their re<g ref="char:EOLhyphen"/>lations, poſſeſſions, and other worldly accommoda<g ref="char:EOLhyphen"/>tions, before this dear intereſt of Jeſus Chriſt: for which, that Judgement in a ſpiritual ſenſe is come
+<pb n="14" facs="tcp:118643:8"/> upon ſome, and may juſtly be feared as coming on others, <hi>Hag.</hi> 1.10, 11. The heavens over them are ſtayed from dew, <hi>&amp;c.</hi> Yea, and hath not God pu<g ref="char:EOLhyphen"/>niſhed this neglect in many, with ſuch a decreaſe of their ſpiritual moiſture, as that word is made good in them, <hi>Pſal.</hi> 137.6. Their tongues even cleave to the roofs of their mouthes; whileſt others, faithful in improving their received meaſure of a Spirit of Faith and Prayer, are abundantly encreaſed therein. Oh! what dreadful Woes are pronounced to them that finde their pleaſures in ſuch a ſeaſon, <hi>but regard not the work of the Lord,</hi>
+               <note place="margin">Iſa. 5.11, 12. <hi>&amp;</hi> 22.12, 13, 14. Amos 6.1. to 6. Iſa. 32.9, 11. <hi>&amp;</hi> 57.1, 4.</note> 
+               <hi>nor conſider the operation of his hands; that are at eaſe in Sion, but are not grieved for the afflictions of Joſeph; Careleſs daughters,</hi> that lay not to heart the periſhing of the righteous, and con<g ref="char:EOLhyphen"/>ſider not the taking away of the merciful men; with whom the Lord will plead, as with them that ſport themſelves againſt him: the deſire of ſuch ſlothful ones will kill them, <hi>Prov.</hi> 21.25. and their proſperity deſtroy them, <hi>Prov.</hi> 1.32.</p>
+            <p>And now, Brethren, is it not high time, that we cry aloud,<note place="margin">Iſa. 58.1. Joel 2.1, 15.</note> and ſpare not; lift up our voice like a Trumpet, when it is too too evident, that in the day of a little eaſe wherein for a little ſpace grace hath been given us from the Lord our God, even a little reviving in our bondage, to ſet up the houſe of our God,<note place="margin">Ezra 9.8, 9.</note> and to repair the deſolations thereof, men are ſleeping, lying down, loving to ſlumber in every cor<g ref="char:EOLhyphen"/>ner, ſaying, It is not nigh; let us build houſes? <hi>&amp;c.</hi> And is not Pride,<note place="margin">Ezek. 16.49.</note> and fulneſs of bread companions to this abundant <hi>idleneſs,</hi>
+               <note place="margin">Prov. 18.9.</note> through which <hi>the building decayeth?</hi> Oh that at length, for the Lords ſake, we might be provoked to <hi>be fervent in ſpirit, ſerving the
+<pb n="15" facs="tcp:118643:8"/> Lord, and that knowing the time,</hi>
+               <note place="margin">Rom. 12.11. <hi>&amp;</hi> 13.11.</note> 
+               <hi>that now it is high time to awake out of ſleep: for now ours,</hi> and Sions <hi>Salvation, is neerer then when we believed.</hi>
+            </p>
+            <p>For the Quickning of our hearts to this work, and the heighthning of our expectations therein, hath not the Lord given us, among many other, this remark<g ref="char:EOLhyphen"/>able ſigne of the times, even a mighty ſpirit of faith and prayer, through ſome choice diſcoveries of grace raiſed up in his people? by the exerciſe of which, in the management of <hi>SIONS CONTROVER<g ref="char:EOLhyphen"/>SIE,</hi> great and glorious <hi>WONDERS</hi> have been wrought in theſe Nations, by unlikely meanes, in anſwer to the prayers of the Saints; as hath been openly confeſt by the inſtruments imployed, which have cauſed themſelves, and others, beholders, to ſtand amazed thereat: and although many <hi>who</hi> once <hi>ſeemed to be pillars</hi> in this Cauſe, have ſoon forgat theſe great works, and have turned back fom <hi>following fully</hi> after God in this way; yet there is a <hi>REMNANT,</hi> a generation that remain upon their <hi>WATCH-TOWER,</hi> with whom the hand of the Lord reſts wonderfully, upholding their faith and hope for <hi>Sion,</hi> notwithſtanding all diſcouragements, in their unceſ<g ref="char:EOLhyphen"/>ſant prayers for her. Hath God ſaid to his at any time, <hi>Seek ye me in vain?</hi> Iſa. 45.19. hath not God by evident anſwers of prayers in theſe dayes, ſealed it in a good meaſure to his people, <hi>that the time to favour her, yea the ſet-time</hi> is come? for he hath regarded the pray<g ref="char:EOLhyphen"/>er of the poor deſtitute, and hath not deſpiſed their prayer: and is not this written for our ſakes? ſee <hi>Pſa.</hi> 102.17, 18. God who beautifieth his mercies to his people, by giving them in their due ſeaſon, having in theſe latter dayes given forth this glorious bleſſing of
+<pb n="16" facs="tcp:118643:9"/> a Spirit of grace and ſupplication ſo abundantly, and continuing the ſame, hath he not ſome great work to be further carried on thereby?</p>
+            <p>Oh! that we could preſent unto you, in a lively way, what our ſouls have begun to taſte of thoſe firſt ripe fruits, of that ariſing and growing Spirit, that grace hath in a meaſure viſited ſome Saints withall, that have joyntly and ſeverally deſired to be found faithful for the Lord: they have to our abundant re<g ref="char:EOLhyphen"/>freſhing witneſſed that their <hi>labour is not in vain in the Lord; nay, in keeping ſuch Commandments there is great reward:</hi> whilſt they have felt (though as yet it be but a little of) <hi>Sions</hi> pangs upon their hearts, they have been ſtrongly carried up into the Spirit of that day, and their ſouls were made as the <hi>Chariots of Aminadab:</hi>
+               <note place="margin">Cant. 6.12.</note> which declareth clearly to us, that were we but put into perfect travel in our Spirits,<note place="margin">Iſa. 66.8.</note> did we take <hi>Pleaſure</hi> indeed <hi>in her ſtones,</hi> and <hi>favour the dust thereof,</hi> it would turn to us for a further Teſtimony, that the time of God's ariſing to ſhew mercy to <hi>Sion,</hi>
+               <note place="margin">Pſa. 102.13, 14.</note> the time to favour her, yea the ſet time were come.</p>
+            <p>But alas for us! we have not onely ſought our eaſe when pain ſhould have been upon us, but as fooliſh Children,<note place="margin">Hoſ. 13.13.</note> have <hi>ſtayed long in the place of the breaking forth of Children;</hi> and by the iniquities that we have contracted ſince we were named <hi>Sions</hi> Children,<note place="margin">Jer. 5.25.</note> we have kept back good things from her: what remain<g ref="char:EOLhyphen"/>eth now, but that we lay her ſtate ſo much the more deeply to heart, as we have drawn grief upon her, and added to her deformity? being earneſt in a <hi>SPIRIT</hi> of faith and prayer <hi>NIGHT AND DAY</hi> in her behalf, as becometh Children nurſed at her ſide, ſutably affected, and acted with and for her:
+<pb n="17" facs="tcp:118643:9"/> not expecting our own deliverance,<note place="margin">Eſth. 4.13, 14. Heb. 11.40.</note> any other way then in hers, knowing that we without her cannot be made perfect.</p>
+            <p>And that we may hold on our way without faint<g ref="char:EOLhyphen"/>ing, &amp; not be in our mournings as men without hope;<note place="margin">Luke 18.1.</note> would it not prove of great advantage, to the raiſ<g ref="char:EOLhyphen"/>ing and keeping up our Faith, to be much exerciſed and delighted in the proſpect that is to be had, through the promiſes, into her (ready to be revealed) glory? However, <hi>her viſage is now blacker then a cole;</hi>
+               <note place="margin">Lam. 4.8. Iſa. 24.16. &amp; 59.9, 11, <hi>&amp;c.</hi>
+               </note> 
+               <hi>ſhe is not known in the ſtreets: treacherous dealers have dealt very treacherouſly</hi> with her; a diſappointment hath be faln many of her hopeful expectations, becauſe her tranſgreſſions are many: reproach hath befallen her at the hands of Profeſſors; and the enemies that know not the Lord, Blaſpheme. The light and Spirit of the Lord is belyed and abuſed by vain men, unſound in the faith, <hi>diſobedient</hi> to, and <hi>deſpiſers</hi> of <hi>the Precious Ordinances</hi> of <hi>Jeſus Christ;</hi> through which alſo, <hi>loſs of Children</hi> hath here and there betided her <hi>Aſſemblies.</hi> Yet hath <hi>JEHOVAH</hi> ſpoken it, and his faithfulneſs is engaged in an <hi>Everlasting Covenant,</hi> that though ſhe hath <hi>Been forſaken and hated, that no man went through her,</hi> yet he will make her <hi>an eternal Excellency, a Joy of many generations, the City of the Lord;</hi>
+               <note place="margin">Iſa. 60.14, 15.</note> 
+               <hi>the Sion of the Holy one of Iſrael ſhall She be called;</hi>
+               <note place="margin">Zech. 2.10.</note> in no<g ref="char:EOLhyphen"/>thing more glorious, then in the perpetual preſence of her <hi>KING,</hi> and <hi>GOD</hi> with her,<note place="margin">Ezek. 37.27, 28, 29. Rev. 21.3, 21, 22, 23.</note> 
+               <hi>who ſhall Tabernacle with men,</hi> and <hi>dwell with them, they</hi> being <hi>his people,</hi> and he <hi>himſelf ſhall be with them, and be their God,</hi> being in ſtead of a <hi>Temple, Sun,</hi> and <hi>Moon; the glory of God and the Lamb</hi> alwayes light<g ref="char:EOLhyphen"/>ning her, the Lord being her <hi>everlaſting light,</hi>
+               <note place="margin">Iſa. 60.19.20.</note> and
+<pb n="18" facs="tcp:118643:10"/> her <hi>God</hi> her <hi>glory.</hi> —How amiable in the day of her deliverance, ſhall <hi>Sion</hi> be, through the bringing to her glory that ancient People, the Family of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi>
+               <note place="margin">Zech. 12.10.</note> Gods <hi>friend, when they ſhall ſee him whom they have pierced, and mourn for him,</hi> and be ſaved by him in that <hi>great day of Jezreel,</hi>
+               <note place="margin">Hoſ. 1.11. Iſa. 11.13. Jer. 3.18.</note> the Lord uniting <hi>Ephraim</hi> and <hi>Judah,</hi> making them very great, holy, and <hi>a bleſ<g ref="char:EOLhyphen"/>ſing round about?</hi> Eze. 34.26. <hi>And what ſhall the receiving of them be, but life from the dead?</hi> Rom. 11.15. and when the glory of the Lord ſhall be riſen upon her, then ſhall the Gentiles come unto her light, and Kings to the brightneſs of her riſing,<note place="margin">Mal. 1.11.</note> 
+               <hi>Iſa.</hi> 60.1.3. <hi>Yea, from the riſing of the Sun, unto the going down of the ſame, ſhall the Name of the Lord be great among the Gentiles; all Nations</hi> flowing unto the <hi>Mountain of the Lord,</hi> when it ſhall be advanced to the tops of the Mountains,<note place="margin">Iſa. 2.2.</note> and exalted above the hills: yea, what glorious things are ſaid of this City of God? There ſhall be births in <hi>Rahab, and Babylon, Philiſtia, Ethiopia, and Tyre;</hi> and yet when God ſhall count up the people, he ſhall ſay of <hi>Sion, This and that man was born in her, and the higheſt himſelf ſhall eſtabliſh her,</hi> Pſ. 87.3, 4, 5. <hi>the zeal of the Lord of hoſts ſhall do this.</hi> And Oh! that all the Lords people were ſo fully <hi>prepared,</hi> as a <hi>Bride,</hi> to meet their bleſſed <hi>Bridegroom;</hi> that we might all unfeignedly ſay with one accord, <hi>Even ſo,</hi>
+               <note place="margin">Rev. 22.20.</note> 
+               <hi>come Lord Jeſus, come quickly.</hi>
+            </p>
+            <p>Had we but truly-Noble Spirits, how would theſe diſcoveries of glory raviſh us, and our eye affect our heart? ſetting us with reſtleſs ſpirits, to be <hi>looking for, and haſtning unto,</hi>
+               <note place="margin">2 Pet. 3.12.</note> that <hi>day</hi> of the Lord; this day of the manifeſt exalting <hi>JESUS,</hi> as <hi>KING OF SAINTS,</hi>
+               <note place="margin">Iſa. 33 18.</note> and <hi>KING OF NATIONS?</hi> Nay, would it not fill our hearts with jealouſie for his
+<pb n="19" facs="tcp:118643:10"/> Name, againſt all that ſtandeth up in the earth, to oppoſe his <hi>Kingdom</hi> and glory,<note place="margin">Rev. 15.3, 4.</note> beginning at home in our own ſpirits? the zeal of the Lords houſe would eat us up,<note place="margin">Pſal. 69.9.</note> and the love of it would crucifie us more unto, and wean us from thoſe intereſts of earth, and men, whereupon we have been apt to lean, and whereunto we have been deeply and dangerouſ<g ref="char:EOLhyphen"/>ly engaged: cauſing us alſo to wait to be with Jeſus, which is beſt of all; and in the mean time to pant, and thirſt unceſſantly, for that <hi>holy Spirit of Promiſe,</hi> that alone can preſent us with the raviſhing glory of that expected day, and raiſe up our ſpirits to a ſweet and ſutable diſpoſition, according to the will of God, to wait and act aright toward it.</p>
+            <p>Dear hearts, let your faith be high, and your wreſtlings without wearineſs; neither be ye in any meaſure diſcouraged, nor diſcouraging one another:<note place="margin">Numb. 6.32, 7.</note> in this matter the ſtrong cannot ſay to the weak, <hi>I have no need of thee;</hi>
+               <note place="margin">1 Cor. 12.21.</note> ſhould not all our intereſt in hea<g ref="char:EOLhyphen"/>ven be improved to the uttermoſt, in this day of <hi>Ja<g ref="char:EOLhyphen"/>cobs trouble? Oh ſtrengthen the weak hands, and confirme the feeble knees,</hi> Iſa. 35.3. <hi>Provoke one another to</hi> this <hi>love, and</hi> theſe <hi>good works;</hi> ſay to one another,<note place="margin">Heb. 10.24. Zech. 8.21.</note> 
+               <hi>Let us goe ſpeedily to pray before the Lord, and to ſeek the Lord of hoſts; I will go alſo.</hi> And ye, <hi>O poor of the flock,</hi> that wait upon the Lord, and know that this is <hi>the word of the Lord, be ſtrong,</hi> yea, <hi>be ſtrong and of good courage;</hi>
+               <note place="margin">Zech. 11.11.</note> knowing, that in this Work of Gods Tabernacle, he receiveth in good part your ſincere, though weak, breathings; your <hi>Badgers-skins,</hi> and <hi>Goats-hair,</hi>
+               <note place="margin">Exod. 35.21, 23.</note> 
+               <hi>is in no wiſe caſt out. Ye that are of a fearful heart, be ſtrong, fear not: behold, your God will come with vengeance, even God with a recompence; he will come and ſave you,</hi> Iſa. 35.4.
+<pb n="20" facs="tcp:118643:11"/> 
+               <hi>What ſhall one then anſwer the Meſſengers of the Nations? That the Lord hath founded Sion, and the poor of his peo<g ref="char:EOLhyphen"/>ple ſhall betake themſelves to it,</hi> Iſa. 14.32.</p>
+            <p>And ye alſo, beloved and honoured Brethren, who miniſter the Word of Grace among the Saints, How comely will your goings be, as he-goats be<g ref="char:EOLhyphen"/>fore the flocks, in this Work? Have you not the Prophets of old, who have ſpoken in the Name of the Lord, for an example; whoſe words accompa<g ref="char:EOLhyphen"/>nied with the ſame Spirit of Faith, will they not fur<g ref="char:EOLhyphen"/>niſh to this Work? In reading their writings, conſi<g ref="char:EOLhyphen"/>der their work in ſuch a time as this, (Profeſſors then being in ſuch a poſture of ſecurity as now) was it not to warn them (with a Woe unto them) who were at eaſe in <hi>Sion,</hi> Amos 6.1, 3, 4, <hi>&amp;c.</hi> and ſuch as regarded not the work of the Lord, nor the operation of his hands? <hi>Iſa.</hi> 5.12. Which duty had they neg<g ref="char:EOLhyphen"/>lected, would not God have required it at their hands? Did they not call upon <hi>the people to aſſemble</hi> together, to <hi>faſt</hi> and <hi>pray,</hi> to <hi>mourn</hi> and <hi>weep</hi> before the Lord, to plead the cauſe of his <hi>people,</hi> his <hi>heritage?</hi> Joel 2.15, 16, 17. Thus did they, whoſe example is laid before you, as <hi>wiſe Stewards,</hi> giving to thoſe of <hi>the houſhold a portion,</hi> ſutable to the preſent <hi>ſeaſon.</hi> Should we not reſemble them in this, crying out with <hi>the Watchmen upon Mount Ephraim,</hi> Jer. 31.6. <hi>Ariſe ye, and let us go up to Sion, unto the Lord our God;</hi> withall, waiting dai<g ref="char:EOLhyphen"/>ly on God for ſuch a diſcerning of the <hi>Times,</hi> as might render us like the <hi>Children of Iſſachar,</hi> who knew <hi>what Iſrael ought to do?</hi> 1 Chron. 12.32. If this rude Eſſay, or ſmall tinkling (as it may be judged) may provoke you, who are more skilful, to <hi>blow the Trumpet,</hi> and the Lord ſpirit you thereunto,
+<pb n="21" facs="tcp:118643:11" rendition="simple:additions"/> do it, we pray you, as for his, and his peoples ſake, with all your might; not ſparing to lay out your more worthy Labours, for the carrying on of this Work. Bear with us, yet a little, in our humble im<g ref="char:EOLhyphen"/>portunity: Is not the <hi>glorious Name</hi> of God, <hi>the peace of Jeruſalem,</hi> and its proſperity, the proſperity of your own Souls alſo, and the people to whom you re<g ref="char:EOLhyphen"/>late, who may be diſcouraged by your remiſsneſs, eminently concerned in this matter? Yet once more, we beſeech you therefore, <hi>in the bowels of Chriſt,</hi> let not any worldly intereſt, prejudice, jealouſie, fear of ill events, or any carnal reaſoning whatſoever, with<g ref="char:EOLhyphen"/>hold your hearts or hands, from helping in ſo good and glorious a Work.</p>
+            <p>VVhat ſhall we ſay more, dearly beloved? <hi>if there be any conſolation in Chriſt, if any comfort of love, if any fellowſhip of the Spirit, if any bowels and mercies, fulfil ye our joy, in being of one accord, and one minde,</hi> in this weighty VVork commended unto you; wherein the <hi>NAME AND GLORY OF GOD</hi> (which ought to be dearer to us then our lives) is ſo eminent<g ref="char:EOLhyphen"/>ly concerned. And withall, adde to your diligence, in looking into the concernments of <hi>Chriſt,</hi> and his <hi>Saints,</hi> that having <hi>arrived unto a diſtinct</hi> knowledge of them, your hearts being duly affected with them, you may go on proſperouſly, not onely to ſpread be<g ref="char:EOLhyphen"/>fore the Lord, both his, and his peoples <hi>Cauſe,</hi>
+               <note place="margin">1 King. 8.59.</note> as the matter ſhall require; but alſo <hi>wait for the return of prayer;</hi> diſcerning this in your ſelves, That they beſt know how good God is to them that ſeek him, that after ſeeking, <hi>wait for him,</hi> Lam. 3.25, 26. Having been thus bold with you for <hi>Sion,</hi> we humbly crave for our ſelves, That we may be had in eſpecial remem<g ref="char:EOLhyphen"/>brance
+<pb n="22" facs="tcp:118643:12"/> on your hearts before the Lord, that we may be fitted for, and faithful in the work of our Dear <hi>REDEEMER:</hi> Into whoſe embraces we give you up, and remain,</p>
+            <closer>
+               <signed>Your poor unworthy Brethren, through rich Grace firmly knit unto you, in the bonds of Goſpel-Love; and one with you in your Spiritual warfare, and waiting for the exaltation of Jeſus Chriſt,
+<list>
+                     <item>
+                        <hi>Abraham Cheare,</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Forty,</hi>
+                     </item>
+                     <item>
+                        <hi>John Pendarves,</hi>
+                     </item>
+                     <item>
+                        <hi>Tho: Glaſſe,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Steede.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
